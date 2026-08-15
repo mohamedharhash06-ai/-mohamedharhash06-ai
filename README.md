@@ -82,29 +82,7 @@ class MohamedFahd:
 
 ---
 
-## 📂 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/mohamedharhash06-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedharhash06-ai&repo=YOUR_REPOSITORY&theme=tokyonight" />
-</a>
-
-</div>
-
-> Replace `YOUR_REPOSITORY` with the name of one of your best repositories.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedharhash06-ai&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedharhash06-ai&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
 
 ---
 
