@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
 <h1>👋 I'm Mohamed Fahd</h1>
 
