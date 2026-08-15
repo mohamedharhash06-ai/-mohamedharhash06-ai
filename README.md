@@ -132,5 +132,23 @@ while True:
 **🐍 Python • 📊 MATLAB • 💻 Programming • 🚀 Learning**
 
 </div>
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mohamedharhash06-ai">
+  <img src="https://img.shields.io/badge/GitHub-mohamedharhash06--ai-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-fahd-a7a3a5343/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Fahd-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
 
 
